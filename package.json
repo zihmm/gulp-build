@@ -1,0 +1,17 @@
+{
+  "name": "customer_project",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-webfont": "^1.7.2",
+    "gulp": "^4.0.0",
+    "gulp-grunt": "^0.5.5",
+    "gulp-notify": "3.2.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-sass-glob": "^1.0.8"
+  }
+}
